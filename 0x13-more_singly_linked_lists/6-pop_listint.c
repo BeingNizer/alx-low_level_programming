@@ -2,6 +2,7 @@
 
 /**
  * pop_listint - deletes the head node of a linked list
+ * @head: pointer to the listint_t list to be freed
  * Return: the data inside the elements that was deleted,
  * or 0 if the list is empty
  */
